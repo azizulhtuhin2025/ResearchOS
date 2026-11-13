@@ -1,4 +1,4 @@
-# Research Agent v2
+# ResearchOS
 
 A literature-research agent that turns a question into a cited, evidence-checked report.
 
